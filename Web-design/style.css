@@ -1,0 +1,86 @@
+*{
+        margin: 0;
+        padding: 0;
+    }
+a:link {
+  color: whitesmoke;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: whitesmoke;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: black;
+  background-color: transparent;
+  text-decoration: underline;
+}
+h2{
+    background-color: indianred;
+    font-display: century gothic;
+    margin-top: 300px 500px;
+       margin: 0;
+    padding: 10px 60px;
+    position: fixed;
+    top: 0px;
+    width: 100%;
+
+
+}
+h1{
+    position: absolute;
+    top: 41%;
+    left: 35%;
+    font-family: PMingLiU-ExtB;
+     text-shadow: 2px 4px 8px white;
+}
+h3{
+    position: absolute;
+    top: 45%;
+    left: 40%;
+    font-family: Gabriola;
+     text-shadow: 2px 4px 8px whitesmoke;
+}
+.s{
+      position: absolute;
+    top: 50%;
+    left: 25%;
+    width: 50em; height: 30px;
+}
+.b{
+      position: absolute;
+     top: 50%;
+     left: 68%;
+     width: 7em; height: 30px
+}
+.q{
+       background-color: indianred;
+      font-display: century gothic;
+   float: right;
+    list-style-type: none;
+    margin: 35px 20em;
+}
+header{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(adv2.png);
+    height: 100vh;
+    background-size:cover;
+    background-position: center;
+}
+.f{
+    position: absolute;
+    top: 90%;
+    left: 40%;
+}
+.pc{
+    position: absolute;
+    top: 100%;
+    left: -5%;
+}
+.ho{
+    position: absolute;
+    top: 100%;
+    right: 0%;
+}
